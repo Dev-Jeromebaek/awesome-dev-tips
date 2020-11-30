@@ -4,11 +4,12 @@ Including some useful bits of code and utilities
 
 [Link 🔗](https://medium.com/javascript-in-plain-english/25-javascript-code-solutions-utility-tricks-you-need-to-know-about-3023f7ed993e)
 
-알아두면 개발하기 편한 25가지 자바스크립트 유틸 코드입니다. Type / Empty 체크, 범위 설정 등 실무에서 유용하게 사용할 수 있는 코드들이 정리되어 있습니다.
+<!-- 알아두면 개발하기 편한 25가지 자바스크립트 유틸 코드입니다. Type / Empty 체크, 범위 설정 등 실무에서 유용하게 사용할 수 있는 코드들이 정리되어 있습니다. -->
+There are 25 JavaScript Util codes that are easy to develop if you know them. Type / Empty checks, range settings, and other useful codes are organized.
 
 ## 목차
 
-[1. Type check util](#1.-Type-check-util)<br />
+[1. Type check util](##1.-Type-check-util)<br />
 [2. Check for empty](#2.-Check-for-empty)<br />
 [3. Get any list last item](#3.-Get-any-list-last-item)<br />
 [4. Random number generator with a range](#4.-Random-number-generator-with-a-range)<br />
@@ -34,7 +35,7 @@ Including some useful bits of code and utilities
 [24. Deep clone object](#24.-Deep-clone-object)<br />
 [25. Deep freeze object](#25.-Deep-freeze-object)<br />
 
----3. Get any list last item
+---
 
 ## 1. Type check util
 
