@@ -9,31 +9,31 @@ There are 25 JavaScript Util codes that are easy to develop if you know them. Ty
 
 ## 목차
 
-[1. Type check util](##1.-Type-check-util)<br />
-[2. Check for empty](#2.-Check-for-empty)<br />
-[3. Get any list last item](#3.-Get-any-list-last-item)<br />
-[4. Random number generator with a range](#4.-Random-number-generator-with-a-range)<br />
-[5. Random id generator](#5.-Random-id-generator)<br />
-[6. Create a range of numbers](#6.-Create-a-range-of-numbers)<br />
-[7. Format JSON string and stringify anything](#7.-Format-JSON-string-and-stringify-anything)<br />
-[8. Execute promise sequentially](#8.-Execute-promise-sequentially)<br />
-[9. Polling data](#9.-Polling-data)<br />
-[10. Wait for all Promises to complete](#10.-Wait-for-all-Promises-to-complete)<br />
-[11. Swap array values place](#11.-Swap-array-values-place)<br />
-[12. Conditional Object key](#12.-Conditional-Object-key)<br />
-[13. Use variables as the object key](#13.-Use-variables-as-the-object-key)<br />
-[14. Check for key in object](#14.-Check-for-key-in-object)<br />
-[15. Remove Array duplicates](#15.-Remove-Array-duplicates)<br />
-[16. Do “break” and “continue” in Array forEach](#16.-Do-“break”-and-“continue”-in-Array-forEach)<br />
-[17. Destructuring with alias name and default values](#17.-Destructuring-with-alias-name-and-default-values)<br />
-[18. Optional Chaining and nullish coalescing](#18.-Optional-Chaining-and-nullish-coalescing)<br />
-[19. Extend class with functions](#19.-Extend-class-with-functions)<br />
-[20. Extend constructor functions](#20.-Extend-constructor-functions)<br />
-[21. Loop anything](#21.-Loop-anything)<br />
-[22. Make function argument required](#22.-Make-function-argument-required)<br />
-[23. Create modules or singletons](#23.-Create-modules-or-singletons)<br />
-[24. Deep clone object](#24.-Deep-clone-object)<br />
-[25. Deep freeze object](#25.-Deep-freeze-object)<br />
+[1. Type check util](#1-type-check-util)<br />
+[2. Check for empty](#2-check-for-empty)<br />
+[3. Get any list last item](#3-get-any-list-last-item)<br />
+[4. Random number generator with a range](#4-random-number-generator-with-a-range)<br />
+[5. Random id generator](#5-random-id-generator)<br />
+[6. Create a range of numbers](#6-create-a-range-of-numbers)<br />
+[7. Format JSON string and stringify anything](#7-format-json-string-and-stringify-anything)<br />
+[8. Execute promise sequentially](#8-execute-promise-sequentially)<br />
+[9. Polling data](#9-polling-data)<br />
+[10. Wait for all Promises to complete](#10-wait-for-all-promises-to-complete)<br />
+[11. Swap array values place](#11-swap-array-values-place)<br />
+[12. Conditional Object key](#12-conditional-object-key)<br />
+[13. Use variables as the object key](#13-use-variables-as-the-object-key)<br />
+[14. Check for key in object](#14-check-for-key-in-object)<br />
+[15. Remove Array duplicates](#15-remove-array-duplicates)<br />
+[16. Do “break” and “continue” in Array forEach](#16-do-break-and-continue-in-array-foreach)<br />
+[17. Destructuring with alias name and default values](#17-destructuring-with-alias-name-and-default-values)<br />
+[18. Optional Chaining and nullish coalescing](#18-optional-chaining-and-nullish-coalescing)<br />
+[19. Extend class with functions](#19-extend-class-with-functions)<br />
+[20. Extend constructor functions](#20-extend-constructor-functions)<br />
+[21. Loop anything](#21-loop-anything)<br />
+[22. Make function argument required](#22-make-function-argument-required)<br />
+[23. Create modules or singletons](#23-create-modules-or-singletons)<br />
+[24. Deep clone object](#24-deep-clone-object)<br />
+[25. Deep freeze object](#25-deep-freeze-object)<br />
 
 ---
 
