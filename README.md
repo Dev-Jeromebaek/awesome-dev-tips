@@ -30,3 +30,5 @@ Further explanations will be added as the content is organized.
 ## React
 
 - [11 Useful Custom React Hooks for Your Next Web App](https://blog.bitsrc.io/11-useful-custom-react-hooks-for-your-next-app-c66307cf0f0c)
+
+- [stop-build-in-aws-free](https://github.com/Dev-JeromeBaek/awesome-dev-tips/tree/master/react/stop-build-aws-free)
